@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "test"
+  },
+  {
+    "name": "d",
+    "fieldId": "d",
+    "modelId": "test",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
