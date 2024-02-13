@@ -1,0 +1,12 @@
+[
+  {
+    "name": "test",
+    "description": "t",
+    "modelId": "test",
+    "path": "content",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
