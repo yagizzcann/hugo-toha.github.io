@@ -1,1 +1,1 @@
-{"test":{"goldmark":{"renderer":{"unsafe":false}},"tableOfContents":{"startLevel":2,"endLevel":6,"ordered":false}},"test2":"yes"}
+{"test":{"goldmark":{"renderer":{"unsafe":false}},"tableOfContents":{"startLevel":2,"endLevel":6,"ordered":false}},"test2":"yes","test3":"<h1>test</h1>"}
