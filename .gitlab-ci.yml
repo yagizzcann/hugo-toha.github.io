@@ -1,4 +1,4 @@
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+image: registry.gitlab.com/pages/hugo/hugo_extended:latest1
 
 default:
   before_script:
